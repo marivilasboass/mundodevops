@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/mari/Project/project-test/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.m \
+  /Users/mari/Project/project-test/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h \
+  /Users/mari/Project/project-test/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/mari/Project/project-test/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h

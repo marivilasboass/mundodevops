@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Modules/RCTSourceCode.m \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mari/Project/project-test/node_modules/react-native/React/Base/RCTInvalidating.h

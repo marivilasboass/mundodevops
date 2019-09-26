@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/mari/Project/project-test/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
